@@ -16,6 +16,15 @@ const tours = [
       {id:1, value: "Travel between the char dham Heritage sites aboard a comfortable coach"},
       {id:2, value:"Explore with a guide to delve deeper into the history"},
       {id:3, value:"Great for history buffs and travelers with limited time"}
+    ],
+    included:[
+      {id:1, value:"Entry to Temple"},
+      {id:2, value:"Return transfers in trains"}
+    ],
+    excluded:[
+      {id:1, value:"Lunch and drinks"},
+      {id:2, value:"Gratuities"},
+      {id:3, value:"Digital guide available in 10 different languages at additional cost"}
     ]
   },
   {

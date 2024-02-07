@@ -58,18 +58,30 @@ const Overview = ({tour}) => {
 
             <div className="row x-gap-40 y-gap-40 pt-20">
               <div className="col-md-6">
-                <div className="text-dark-1 text-15">
+              {
+               tour.included.map((include) => (
+                <div className="text-dark-1 text-15">  
+                  <i className="icon-check text-10 mr-10"></i> {include.value}
+                </div>
+                      ))}
+                {/* <div className="text-dark-1 text-15">
                   <i className="icon-check text-10 mr-10"></i> Entry ticket to
                   Harry Potter Warner Bros Studio Tour London
                 </div>
                 <div className="text-dark-1 text-15">
                   <i className="icon-check text-10 mr-10"></i> Return transfers
                   in air-conditioned coach
-                </div>
+                </div> */}
               </div>
 
               <div className="col-md-6">
+              {
+               tour.excluded.map((exclude) => (
                 <div className="text-dark-1 text-15">
+                  <i className="icon-close text-green-2 text-10 mr-10"></i> {exclude.value}
+                </div>
+                      ))}
+                {/* <div className="text-dark-1 text-15">
                   <i className="icon-close text-green-2 text-10 mr-10"></i> Food
                   and drinks
                 </div>
@@ -81,7 +93,7 @@ const Overview = ({tour}) => {
                   <i className="icon-close text-green-2 text-10 mr-10"></i>{" "}
                   Digital guide available in 10 different languages at
                   additional cost
-                </div>
+                </div> */}
               </div>
             </div>
           </div>
