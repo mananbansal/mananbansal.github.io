@@ -1,5 +1,6 @@
 const tours = [
   {
+    id: 1,
     tag: "LIKELY TO SELL OUT*",
     slideImg: ["/img/tours/1.png"],
     title: "char dham yatra",
@@ -9,7 +10,8 @@ const tours = [
     price: "35000",
     tourType: "Full-day Tours",
     delayAnimation: "100",
-    desc: "this is sample desc of char dham yatra" 
+    desc: "this is sample desc of char dham yatra",
+    cancelPolicy: "For a refund, cancel at least 7 Days in advance of the start date of the experience." 
   },
   {
     id: 2,
