@@ -75,7 +75,7 @@ const TourProperties = () => {
             <div className="tourCard__content mt-10">
               <div className="d-flex items-center lh-14 mb-5">
                 <div className="text-14 text-light-1">
-                  {item?.duration}+ hours
+                  {item?.duration}+ Days
                 </div>
                 <div className="size-3 bg-light-1 rounded-full ml-10 mr-10" />
                 <div className="text-14 text-light-1">{item?.tourType}</div>
@@ -109,7 +109,7 @@ const TourProperties = () => {
                     From
                     <span className="text-16 fw-500 text-dark-1">
                       {" "}
-                      US${item.price}
+                      RS. {item.price}
                     </span>
                   </div>
                 </div>

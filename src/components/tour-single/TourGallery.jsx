@@ -90,7 +90,7 @@ export default function TourGallery({ tour }) {
               {/* End toursnapshot */}
               <div className="border-top-light mt-40 mb-40"></div>
 
-              <Overview />
+              <Overview tour={tour} />
               {/* End  Overview */}
             </div>
             {/* End .col-xl-8 */}

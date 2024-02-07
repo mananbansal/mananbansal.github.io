@@ -1,4 +1,4 @@
-const Overview = () => {
+const Overview = ({tour}) => {
   return (
     <>
       <div className="row x-gap-40 y-gap-40">
@@ -6,14 +6,7 @@ const Overview = () => {
           <h3 className="text-22 fw-500">Overview</h3>
 
           <p className="text-dark-1 text-15 mt-20">
-            Unless you hire a car, visiting Stonehenge, Bath, and Windsor Castle
-            in one day is next to impossible. Designed specifically for
-            travelers with limited time in London, this tour allows you to check
-            off a range of southern England&lsquo;s historical attractions in
-            just one day by eliminating the hassle of traveling between each one
-            independently. Travel by comfortable coach and witness your guide
-            bring each UNESCO World Heritage Site to life with commentary. Plus,
-            all admission tickets are included in the tour price.
+          {tour?.desc}
           </p>
 
           <a

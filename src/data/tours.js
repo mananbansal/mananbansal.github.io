@@ -1,27 +1,28 @@
 const tours = [
   {
-    id: 1,
     tag: "LIKELY TO SELL OUT*",
     slideImg: ["/img/tours/1.png"],
-    title: "Char Dham Yatra",
-    location: "Uttarakhand,india",
-    duration: "264",
+    title: "char dham yatra",
+    location: "Uttrakhand, India",
+    duration: "11",
     numberOfReviews: "3014",
-    price: "31000",
+    price: "35000",
     tourType: "Full-day Tours",
     delayAnimation: "100",
+    desc: "this is sample desc of char dham yatra" 
   },
   {
     id: 2,
     tag: "",
     slideImg: ["/img/tours/2.png", "/img/tours/1.png", "/img/tours/3.png"],
-    title: "Westminster Walking Tour & Westminster Abbey Entry",
-    location: "Ciutat Vella, Barcelona",
-    duration: "14",
+    title: "Do Dham Yatra",
+    location: "Uttrakhand, India",
+    duration: "7",
     numberOfReviews: "2045",
-    price: "65",
+    price: "25000",
     tourType: "Attractions & Museums",
     delayAnimation: "200",
+    desc: "this is sample desc of do dham yatra"
   },
 
   {
