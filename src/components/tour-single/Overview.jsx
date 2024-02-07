@@ -37,12 +37,16 @@ const Overview = ({tour}) => {
         <div className="col-12">
           <h5 className="text-16 fw-500">Highlights</h5>
           <ul className="list-disc text-15 mt-10">
-            <li>
-              Travel between the UNESCO World Heritage sites aboard a
+          {
+          tour.highlights.map((highlight) => (
+          <li key={highlight.id}>{highlight.value}</li>
+        ))}
+          {/* <li>
+               Travel between the UNESCO World Heritage sites aboard a
               comfortable coach
             </li>
-            <li>Explore with a guide to delve deeper into the history</li>
-            <li>Great for history buffs and travelers with limited time</li>
+             <li>Explore with a guide to delve deeper into the history</li>
+            <li>Great for history buffs and travelers with limited time</li> */}
           </ul>
         </div>
       </div>
