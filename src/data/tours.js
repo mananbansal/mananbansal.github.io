@@ -13,7 +13,7 @@ const tours = [
     desc: "this is sample desc of char dham yatra",
     cancelPolicy: "For a refund, cancel at least 7 Days in advance of the start date of the experience." ,
     highlights: [
-      {id:1, value: "Travel between the UNESCO World Heritage sites aboard a comfortable coach"},
+      {id:1, value: "Travel between the char dham Heritage sites aboard a comfortable coach"},
       {id:2, value:"Explore with a guide to delve deeper into the history"},
       {id:3, value:"Great for history buffs and travelers with limited time"}
     ]
