@@ -2,7 +2,7 @@ const tours = [
   {
     id: 1,
     tag: "LIKELY TO SELL OUT*",
-    slideImg: ["/img/tours/1.png"],
+    slideImg: ["/img/tours/1.png","/img/tours/2.png", "/img/tours/3.png"],
     title: "char dham yatra",
     location: "Uttrakhand, India",
     duration: "11",
