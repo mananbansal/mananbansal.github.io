@@ -9,19 +9,19 @@ const Overview = ({tour}) => {
           {tour?.desc}
           </p>
 
-          <a
+          {/* <a
             href="#"
             className="d-block text-14 text-blue-1 fw-500 underline mt-10"
           >
             Show More
-          </a>
+          </a> */}
         </div>
 
         <div className="col-md-6">
           <h5 className="text-16 fw-500">Available languages</h5>
           <div className="text-15 mt-10">
-            German, Chinese, Portuguese, Japanese, English, Italian, Chinese,
-            French, Spanish
+          {tour?.languages}
+          {/* Available languages */}
           </div>
         </div>
 
@@ -29,8 +29,7 @@ const Overview = ({tour}) => {
           <h5 className="text-16 fw-500">Cancellation policy</h5>
           <div className="text-15 mt-10">
           {tour?.cancelPolicy}
-            {/* For a full refund, cancel at least 24 hours in advance of the start
-            date of the experience. */}
+          {/* Cancellation policy */}
           </div>
         </div>
 
@@ -41,12 +40,7 @@ const Overview = ({tour}) => {
           tour.highlights.map((highlight) => (
           <li key={highlight.id}>{highlight.value}</li>
         ))}
-          {/* <li>
-               Travel between the UNESCO World Heritage sites aboard a
-              comfortable coach
-            </li>
-             <li>Explore with a guide to delve deeper into the history</li>
-            <li>Great for history buffs and travelers with limited time</li> */}
+          {/* <li> Highlights </li> */}
           </ul>
         </div>
       </div>
@@ -58,41 +52,26 @@ const Overview = ({tour}) => {
 
             <div className="row x-gap-40 y-gap-40 pt-20">
               <div className="col-md-6">
-              {
-               tour.included.map((include) => (
-                <div className="text-dark-1 text-15">  
-                  <i className="icon-check text-10 mr-10"></i> {include.value}
-                </div>
+                {
+                 tour.included.map((include) => (
+                  <div className="text-dark-1 text-15"  key={include.id}>  
+                  <i className="icon-check text-10 mr-10" key={include.id}></i> {include.value}
+                  </div>
                       ))}
-                {/* <div className="text-dark-1 text-15">
-                  <i className="icon-check text-10 mr-10"></i> Entry ticket to
-                  Harry Potter Warner Bros Studio Tour London
-                </div>
-                <div className="text-dark-1 text-15">
-                  <i className="icon-check text-10 mr-10"></i> Return transfers
-                  in air-conditioned coach
-                </div> */}
+                  {/* <div className="text-dark-1 text-15">
+                  <i className="icon-check text-10 mr-10"></i> included
+                    </div> */}
               </div>
 
               <div className="col-md-6">
               {
                tour.excluded.map((exclude) => (
-                <div className="text-dark-1 text-15">
-                  <i className="icon-close text-green-2 text-10 mr-10"></i> {exclude.value}
+                <div className="text-dark-1 text-15" key={exclude.id}>
+                  <i className="icon-close text-green-2 text-10 mr-10" key={exclude.id}></i> {exclude.value}
                 </div>
                       ))}
                 {/* <div className="text-dark-1 text-15">
-                  <i className="icon-close text-green-2 text-10 mr-10"></i> Food
-                  and drinks
-                </div>
-                <div className="text-dark-1 text-15">
-                  <i className="icon-close text-green-2 text-10 mr-10"></i>{" "}
-                  Gratuities
-                </div>
-                <div className="text-dark-1 text-15">
-                  <i className="icon-close text-green-2 text-10 mr-10"></i>{" "}
-                  Digital guide available in 10 different languages at
-                  additional cost
+                  <i className="icon-close text-green-2 text-10 mr-10"></i> Excluded
                 </div> */}
               </div>
             </div>

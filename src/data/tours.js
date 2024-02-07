@@ -11,6 +11,7 @@ const tours = [
     tourType: "Full-day Tours",
     delayAnimation: "100",
     desc: "this is sample desc of char dham yatra",
+    languages:"English, Hindi",
     cancelPolicy: "For a refund, cancel at least 7 Days in advance of the start date of the experience." ,
     highlights: [
       {id:1, value: "Travel between the char dham Heritage sites aboard a comfortable coach"},
