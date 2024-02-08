@@ -130,7 +130,7 @@ const TourSingleV1Dynamic = () => {
               </div>
             </div>
             {/* End row */}
-            <ImportantInfo />
+            <ImportantInfo  tour={tour}/>
           </div>
           {/* End pt-40 */}
         </div>

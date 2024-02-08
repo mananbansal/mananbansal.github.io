@@ -1,4 +1,4 @@
-const TourSnapShot = () => {
+const TourSnapShot = ({tour}) => {
   return (
     <div className="row y-gap-30 justify-between pt-20">
       <div className="col-md-auto col-6">
@@ -6,7 +6,7 @@ const TourSnapShot = () => {
           <i className="icon-clock text-22 text-blue-1 mr-10"></i>
           <div className="text-15 lh-15">
             Duration:
-            <br /> 11h
+            <br /> {tour?.duration}
           </div>
         </div>
       </div>
@@ -38,7 +38,7 @@ const TourSnapShot = () => {
         <div className="d-flex">
           <i className="icon-access-denied text-22 text-blue-1 mr-10"></i>
           <div className="text-15 lh-15">
-            Free cancellation <br />
+            cancellation Policy <br />
             <a href="#" className="text-blue-1 underline">
               Learn more
             </a>

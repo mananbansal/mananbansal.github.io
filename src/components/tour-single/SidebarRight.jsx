@@ -8,7 +8,7 @@ const SidebarRight = ({ tour }) => {
           <div className="text-14 text-light-1">
             From{" "}
             <span className="text-20 fw-500 text-dark-1 ml-5">
-              US${tour?.price}
+              Rs. {tour?.price}
             </span>
           </div>
           {/* End div */}
@@ -31,8 +31,8 @@ const SidebarRight = ({ tour }) => {
 
         <div className="px-30">
           <div className="text-14 text-light-1 mt-30">
-            Not sure? You can cancel this reservation up to 24 hours in advance
-            for a full refund.
+            Not sure? You can cancel this reservation up to 48 hours in advance
+            for refund.
           </div>
         </div>
         {/* End div */}

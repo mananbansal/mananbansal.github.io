@@ -1,4 +1,4 @@
-const ImportantInfo = () => {
+const ImportantInfo = ({tour}) => {
   return (
     <div className="row x-gap-40 y-gap-40 justify-between pt-20">
       <div className="col-lg-4 col-md-6">
