@@ -9,8 +9,8 @@ import Sidebar from "@/components/tour-list/tour-list-v2/Sidebar";
 import MetaComponent from "@/components/common/MetaComponent";
 
 const metadata = {
-  title: "Tour List v2 || GoTrip - Travel & Tour ReactJs Template",
-  description: "GoTrip - Travel & Tour ReactJs Template",
+  title: "Tours",
+  description: "Devsthan Expert - Travel & Tour",
 };
 
 const TourListPage2 = () => {

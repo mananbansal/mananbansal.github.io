@@ -1,7 +1,7 @@
 const Social = () => {
   const socialContent = [
     { id: 1, icon: "icon-facebook", link: "https://www.facebook.com/DevsthanExpert/" },
-    { id: 2, icon: "icon-whatsapp", link: "https://wa.me/918683818381?text=Hi"},
+    { id: 2, icon: "fa-brands fa-whatsapp", link: "https://wa.me/918683818381?text=Hi"},
     { id: 3, icon: "icon-instagram", link: "https://www.instagram.com/devsthanexpert" },
   ];
   return (

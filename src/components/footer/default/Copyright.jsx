@@ -43,7 +43,7 @@ const Copyright = () => {
                 <span className="underline">English (US)</span>
               </button>
               <button className="d-flex items-center text-14 fw-500 text-dark-1">
-                <i className="icon-inr text-16 mr-10" />
+                <i className="icon-rupee text-16 mr-10" />
                 <span className="underline">INR</span>
               </button>
             </div>
