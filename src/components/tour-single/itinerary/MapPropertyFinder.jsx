@@ -19,7 +19,7 @@ export default function MapPropertyFinder() {
       defaultCenter={defaultProps.center}
       defaultZoom={defaultProps.zoom}
     >
-      <AnyReactComponent lat={59.955413} lng={30.337844} text="My Marker" />
+      <AnyReactComponent lat={30.5812379} lng={78.9537696} text="My Marker" />
     </GoogleMapReact>
   );
 }
