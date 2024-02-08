@@ -51,9 +51,9 @@ const ItineraryContent = () => {
       duration: "160 Km | 5/6 Hr"
     },
     {
-      id: 4,
-      targetCollapse: "item_4",
-      itemNo: "4",
+      id: 5,
+      targetCollapse: "item_5",
+      itemNo: "5",
       title: "Barkot to Harshil Velly",
       img: "/img/tours/list.png",
       content: `Early morning departure to Harshil.
@@ -63,9 +63,9 @@ const ItineraryContent = () => {
       duration: "160 Km | 5/6 Hr"
     },
     {
-      id: 4,
-      targetCollapse: "item_4",
-      itemNo: "4",
+      id: 6,
+      targetCollapse: "item_6",
+      itemNo: "6",
       title: "Barkot to Harshil Velly",
       img: "/img/tours/list.png",
       content: `Early morning departure to Harshil.
@@ -75,9 +75,9 @@ const ItineraryContent = () => {
       duration: "160 Km | 5/6 Hr"
     },
     {
-      id: 4,
-      targetCollapse: "item_4",
-      itemNo: "4",
+      id: 7,
+      targetCollapse: "item_7",
+      itemNo: "7",
       title: "Barkot to Harshil Velly",
       img: "/img/tours/list.png",
       content: `Early morning departure to Harshil.
@@ -87,9 +87,9 @@ const ItineraryContent = () => {
       duration: "160 Km | 5/6 Hr"
     },
     {
-      id: 4,
-      targetCollapse: "item_4",
-      itemNo: "4",
+      id: 8,
+      targetCollapse: "item_8",
+      itemNo: "8",
       title: "Barkot to Harshil Velly",
       img: "/img/tours/list.png",
       content: `Early morning departure to Harshil.
@@ -99,9 +99,9 @@ const ItineraryContent = () => {
       duration: "160 Km | 5/6 Hr"
     },
     {
-      id: 4,
-      targetCollapse: "item_4",
-      itemNo: "4",
+      id: 9,
+      targetCollapse: "item_9",
+      itemNo: "9",
       title: "Barkot to Harshil Velly",
       img: "/img/tours/list.png",
       content: `Early morning departure to Harshil.
@@ -111,9 +111,9 @@ const ItineraryContent = () => {
       duration: "160 Km | 5/6 Hr"
     },
     {
-      id: 4,
-      targetCollapse: "item_4",
-      itemNo: "4",
+      id: 10,
+      targetCollapse: "item_10",
+      itemNo: "10",
       title: "Barkot to Harshil Velly",
       img: "/img/tours/list.png",
       content: `Early morning departure to Harshil.
