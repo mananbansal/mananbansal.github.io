@@ -144,9 +144,9 @@ const TourSingleV1Dynamic = () => {
           <Itinerary />
         </div>
       </section>
-      {/* End Itinerary */}
+      {/* -------End Itinerary */}
 
-      <section className="mt-40">
+      {/* <section className="mt-40">
         <div className="container ">
           <div className="pt-40 border-top-light">
             <div className="row y-gap-20">
@@ -155,26 +155,27 @@ const TourSingleV1Dynamic = () => {
                   FAQs about
                   <br /> The Crown Hotel
                 </h2>
-              </div>
-              {/* End .row */}
+              </div> */}
 
-              <div className="col-lg-8">
+              {/* ------End .row */}
+
+              {/* <div className="col-lg-8">
                 <div
                   className="accordion -simple row y-gap-20 js-accordion"
                   id="Faq1"
                 >
                   <Faq />
                 </div>
-              </div>
-              {/* End .col */}
-            </div>
-            {/* End .row */}
-          </div>
-          {/* End .pt-40 */}
-        </div>
-        {/* End .container */}
-      </section>
-      {/* End Faq about sections */}
+              </div> */}
+              {/* ---End .col */}
+            {/* </div> */}
+            {/* ---End .row */}
+          {/* </div> */}
+          {/* ----End .pt-40 */}
+        {/* </div> */}
+        {/* ---End .container */}
+      {/* </section> */}
+      {/* ---End Faq about sections */}
 
       <section className="mt-40 border-top-light pt-40">
         <div className="container">
@@ -235,7 +236,7 @@ const TourSingleV1Dynamic = () => {
               <div className="sectionTitle -md">
                 <h2 className="sectionTitle__title">Most Popular Tours</h2>
                 <p className=" sectionTitle__text mt-5 sm:mt-0">
-                  Interdum et malesuada fames ac ante ipsum
+                  checkout our Most Popular Tours and Packages.
                 </p>
               </div>
             </div>
