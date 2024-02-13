@@ -2,30 +2,54 @@ const tours = [
   {
     id: 1,
     tag: "LIKELY TO SELL OUT*",
-    slideImg: ["/img/tours/1.png","/img/tours/2.png", "/img/tours/3.png"],
-    title: "char dham yatra",
+    slideImg: ["/img/tours/1.png"],
+    title: "Char Dham Yatra Ex Delhi 11N/12D",
     location: "Uttrakhand, India",
-    duration: "11",
+    duration: "12",
     numberOfReviews: "3014",
-    price: "35000",
+    price: "63 000",
     tourType: "Full-day Tours",
     delayAnimation: "100",
-    desc: "this is sample desc of char dham yatra",
+    desc: "Chardham Yatra is a revered pilgrimage circuit in India, encompassing Yamunotri, Gangotri, Kedarnath, and Badrinath. Situated in the Himalayas, pilgrims embark on this sacred journey for spiritual purification and blessings. Yamunotri is dedicated to the goddess Yamuna, Gangotri to the Ganges, Kedarnath to Lord Shiva, and Badrinath to Lord Vishnu. The yatra involves traversing challenging terrains, offering prayers, and participating in rituals at each site. Pilgrims believe that completing this circuit brings divine blessings and spiritual fulfillment. The Chardham Yatra holds deep religious significance, attracting devotees seeking a profound connection with their faith amidst the awe-inspiring landscapes of Uttarakhand.",
     languages:"English, Hindi",
     cancelPolicy: "For a refund, cancel at least 7 Days in advance of the start date of the experience." ,
     highlights: [
-      {id:1, value: "Travel between the char dham Heritage sites aboard a comfortable coach"},
-      {id:2, value:"Explore with a guide to delve deeper into the history"},
-      {id:3, value:"Great for history buffs and travelers with limited time"}
+      {id:1, value: "Sacred Sites: Chardham Yatra includes four holy destinations – Yamunotri, Gangotri, Kedarnath, and Badrinath, each holding significant religious importance in Hinduism."},
+      {id:2, value:"Spiritual Significance: Pilgrims undertake the yatra to seek spiritual blessings, cleanse their sins, and attain a deeper connection with their faith by participating in rituals and prayers at these revered locations."},
+      {id:3, value:"Himalayan Scenery: The journey unfolds amidst breathtaking Himalayan landscapes, offering awe-inspiring views of snow-capped peaks, lush valleys, and serene rivers, enhancing the pilgrimage with natural beauty."}
     ],
     included:[
-      {id:1, value:"Entry to Temple"},
-      {id:2, value:"Return transfers in trains"}
+      {id:1, value:"Accommodation on twin sharing basis in hotels mentioned or similar"},
+      {id:2, value:"Airport Pick up with Wash & Change rooms with breakfast at New Delhi"}
+      {id:3, value:"Meals as per package (Breakfast including packed & Dinner)"},
+      {id:4, value:"1 Lunch en-route to Haridwar (Day 1)"}
+      {id:5, value:"1 Lunch en-route to Kedarnath (Day 7)"},
+      {id:6, value:"Kedarnath stay (Neat and clean basic GMVN guest house stay on sharing basis/ Dormitory)"}
+      {id:7, value:"Per day 1 x 500 mineral water bottle to each guests"},
+      {id:8, value:"Service of professional Tour Manager will be provided 10 passengers & Above"}
+      {id:9, value:"Travel Insurance for guest up to 70 years"},
+      {id:10, value:"Vehicles as per group size on Sharing basis}
+      {id:11, value:"Vehicle is not at disposal – means it is for transfers and sightseeing as per the itinerary"},
+      {id:12, value:"Seats Allotment in the Vehicle is on first come first serve basis at the venue, irrespective of the booking dates"}
     ],
     excluded:[
-      {id:1, value:"Lunch and drinks"},
-      {id:2, value:"Gratuities"},
-      {id:3, value:"Digital guide available in 10 different languages at additional cost"}
+      {id:1, value:"Flight fare"},
+      {id:2, value:"Helicopter Shuttle tickets to Kedarnath (Subject to availability)"},
+      {id:3, value:"Train fare/ Airfare"},
+      {id:4, value:"Pony & Palki Charges"},
+      {id:5, value:"Lunches"},
+      {id:6, value:"Travel insurance covering medical evacuation, hospitalization, air evacuation, baggage insurance and trip cancellation."},
+      {id:7, value:"Use of mini-bar in the hotel rooms wherever applicable"},
+      {id:8, value:"Any optional trips other than specified in the program."},
+      {id:9, value:"Any en-route or personal expenses such as alcoholic and non-alcoholic beverages, telephone calls, tips & gratuities, laundry etc."},
+      {id:10, value:"Personal equipment like clothes, shoes, daypacks, personal medical kit etc."},
+      {id:11, value:"Any exigency expenses due to reasons beyond our normal control"},
+      {id:12, value:"Any personal expenses, room service & special orders, mineral waters alcoholic & non-alcoholic beverages, porterage, tips, phone calls, laundry etc"},
+      {id:13, value:"Any extra excursions or sightseeing apart from the above specified itinerary."},
+      {id:14, value:"Camera fees, guide charges"},
+      {id:15, value:"Any incidental and other expenses which are not specified in the inclusions"},
+      {id:16, value:"Government Service Tax (GST)"},
+      
     ]
   },
   {
