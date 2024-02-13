@@ -20,15 +20,15 @@ const tours = [
     ],
     included:[
       {id:1, value:"Accommodation on twin sharing basis in hotels mentioned or similar"},
-      {id:2, value:"Airport Pick up with Wash & Change rooms with breakfast at New Delhi"}
+      {id:2, value:"Airport Pick up with Wash & Change rooms with breakfast at New Delhi"},
       {id:3, value:"Meals as per package (Breakfast including packed & Dinner)"},
-      {id:4, value:"1 Lunch en-route to Haridwar (Day 1)"}
+      {id:4, value:"1 Lunch en-route to Haridwar (Day 1)"},
       {id:5, value:"1 Lunch en-route to Kedarnath (Day 7)"},
-      {id:6, value:"Kedarnath stay (Neat and clean basic GMVN guest house stay on sharing basis/ Dormitory)"}
+      {id:6, value:"Kedarnath stay (Neat and clean basic GMVN guest house stay on sharing basis/ Dormitory)"},
       {id:7, value:"Per day 1 x 500 mineral water bottle to each guests"},
-      {id:8, value:"Service of professional Tour Manager will be provided 10 passengers & Above"}
+      {id:8, value:"Service of professional Tour Manager will be provided 10 passengers & Above"},
       {id:9, value:"Travel Insurance for guest up to 70 years"},
-      {id:10, value:"Vehicles as per group size on Sharing basis}
+      {id:10, value:"Vehicles as per group size on Sharing basis"},
       {id:11, value:"Vehicle is not at disposal – means it is for transfers and sightseeing as per the itinerary"},
       {id:12, value:"Seats Allotment in the Vehicle is on first come first serve basis at the venue, irrespective of the booking dates"}
     ],
