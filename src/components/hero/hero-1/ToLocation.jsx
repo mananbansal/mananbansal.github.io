@@ -7,28 +7,28 @@ const ToLocation = () => {
   const locationSearchContent = [
     {
       id: 1,
-      name: "London",
-      address: "Greater London, United Kingdom",
+      name: "Char Dham Yatra",
+      address: "Uttrakhand",
     },
     {
       id: 2,
-      name: "New York",
-      address: "New York State, United States",
+      name: "Do Dham Yatra",
+      address: "Uttrakhand",
     },
     {
       id: 3,
-      name: "Paris",
-      address: "France",
+      name: "Ek Dham Yatra",
+      address: "Uttrakhand",
     },
     {
       id: 4,
-      name: "Madrid",
-      address: "Spain",
+      name: "Kedarnath",
+      address: "Uttrakhand",
     },
     {
       id: 5,
-      name: "Santorini",
-      address: "Greece",
+      name: "Badrinath",
+      address: "Uttrakhand",
     },
   ];
 

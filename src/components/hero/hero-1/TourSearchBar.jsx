@@ -11,7 +11,7 @@ const TourSearchBar = () => {
     <div className="position-relative mt-30 md:mt-20 js-tabs-content">
       <div className="mainSearch -w-900 bg-white px-10 py-10 lg:px-20 lg:pt-5 lg:pb-20 rounded-100">
         <div className="button-grid items-center">
-          <FromLocation />
+          {/* <FromLocation /> */}
           {/* End Location From */}
 
           <ToLocation />
