@@ -42,7 +42,7 @@ const MainFilterSearchBox = () => {
 
   return (
     <>
-      <div className="tabs__controls d-flex x-gap-30 y-gap-20 justify-center sm:justify-start js-tabs-controls">
+      <div className="tabs__controls d-flex x-gap-20 y-gap-20 justify-center sm:justify-start js-tabs-controls">
         {tabs?.map((tab) => (
           <button
             key={tab?.id}
