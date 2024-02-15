@@ -7,7 +7,7 @@ const tours = [
     location: "Uttrakhand, India",
     duration: "12",
     numberOfReviews: "3014",
-    price: "63 000",
+    price: "63,000",
     tourType: "Full-day Tours",
     delayAnimation: "100",
     desc: "Chardham Yatra is a revered pilgrimage circuit in India, encompassing Yamunotri, Gangotri, Kedarnath, and Badrinath. Situated in the Himalayas, pilgrims embark on this sacred journey for spiritual purification and blessings. Yamunotri is dedicated to the goddess Yamuna, Gangotri to the Ganges, Kedarnath to Lord Shiva, and Badrinath to Lord Vishnu. The yatra involves traversing challenging terrains, offering prayers, and participating in rituals at each site. Pilgrims believe that completing this circuit brings divine blessings and spiritual fulfillment. The Chardham Yatra holds deep religious significance, attracting devotees seeking a profound connection with their faith amidst the awe-inspiring landscapes of Uttarakhand.",
@@ -56,22 +56,22 @@ const tours = [
     id: 2,
     tag: "",
     slideImg: ["/img/tours/2.png", "/img/tours/1.png", "/img/tours/3.png"],
-    title: "Do Dham Yatra",
+    title: "Char Dham Yatra By Helicopter",
     location: "Uttrakhand, India",
-    duration: "7",
+    duration: "6",
     numberOfReviews: "2045",
-    price: "25000",
-    tourType: "Attractions & Museums",
+    price: "1,95,000",
+    tourType: "Full-day Tours",
     delayAnimation: "200",
-    desc: "this is sample desc of do dham yatra",
+    desc: "The Char Dham Yatra by helicopter offers a convenient and efficient way to visit the four sacred Hindu pilgrimage sites in Uttarakhand, collectively known as the Char Dhams. These revered sites—Yamunotri, Gangotri, Kedarnath, and Badrinath—draw millions of devotees each year. The yatra takes place in the state of Uttarakhand, India. Traveling by helicopter allows you to cover these spiritual destinations in a shorter time frame, typically 5 days. The ideal months for this journey are May and June or September and November, when the skies are clear and stable. Remember to pack appropriately for the high altitudes, respect local traditions, and carry essential documents like personal IDs and COVID-19 reports.",
     cancelPolicy: "For a refund, cancel at least 7 Days in advance of the start date of the experience." ,
     highlights: [
-      {id:1, value: "Travel between the Do dham Heritage sites aboard a comfortable coach"},
-      {id:2, value:"Explore with a guide to delve deeper into the history"},
-      {id:3, value:"Great for history buffs and travelers with limited time"}
+      {id:1, value: "Sacred Sites: Chardham Yatra includes four holy destinations – Yamunotri, Gangotri, Kedarnath, and Badrinath, each holding significant religious importance in Hinduism."},
+      {id:2, value:"Spiritual Significance: Pilgrims undertake the yatra to seek spiritual blessings, cleanse their sins, and attain a deeper connection with their faith by participating in rituals and prayers at these revered locations."},
+      {id:3, value:"Himalayan Scenery: The journey unfolds amidst breathtaking Himalayan landscapes, offering awe-inspiring views of snow-capped peaks, lush valleys, and serene rivers, enhancing the pilgrimage with natural beauty."}
     ],
     included:[
-      {id:1, value:"Entry to Temple"},
+      {id:1, value:"Helicopter trip starts from Dehradun."},
       {id:2, value:"Return transfers in trains"}
     ],
     excluded:[
