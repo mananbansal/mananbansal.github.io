@@ -140,7 +140,7 @@ const tours = [
   {
     id: 4,
     tag: "top rated",
-    slideImg: ["/img/tours/Kedarnath.png"],
+    slideImg: ["/img/tours/Kedarnath.jpg"],
     title: "Ek Dham Yatra By Road (Kedarnath)",
     location: "Uttarakhand, India",
     duration: "6",
