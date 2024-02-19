@@ -197,7 +197,7 @@ const Home_1 = () => {
       </section>
       {/* End testimonial Section */}
 
-      <section className="layout-pt-lg layout-pb-md">
+      {/* <section className="layout-pt-lg layout-pb-md">
         <div className="container">
           <div className="row justify-center text-center">
             <div className="col-auto">
@@ -210,15 +210,15 @@ const Home_1 = () => {
                 </p>
               </div>
             </div>
-          </div>
+          </div> */}
           {/* End .row  */}
-          <div className="row y-gap-30 pt-40">
-            <Blog />
-          </div>
+          {/* <div className="row y-gap-30 pt-40">
+            <Blog /> */}
+          {/* </div> */}
           {/* End .row */}
-        </div>
+         {/* </div> */}
         {/* End .container */}
-      </section>
+       {/* </section> */}
       {/* End blog Section */}
 
       {/* <section className="layout-pt-md layout-pb-lg">
