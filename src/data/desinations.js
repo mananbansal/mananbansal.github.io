@@ -24,21 +24,21 @@ export const destinations1 = [
 export const destinations2 = [
   {
     id: 1,
-    hoverText: "14 Hotel - 22 Cars - 18 Tours - 95 Activity",
-    city: "New York",
-    img: "/img/destinations/1/1.png",
+    hoverText: "",
+    city: "Kedarnath",
+    img: "/img/destinations/1/kedarnath.jpg",
   },
   {
     id: 2,
-    hoverText: "14 Hotel - 22 Cars - 18 Tours - 95 Activity",
-    city: "London",
-    img: "/img/destinations/1/2.png",
+    hoverText: "",
+    city: "Badrinath",
+    img: "/img/destinations/1/badrinath.jpg",
   },
   {
     id: 3,
-    hoverText: "14 Hotel - 22 Cars - 18 Tours - 95 Activity",
-    city: "Barcelona",
-    img: "/img/destinations/1/3.png",
+    hoverText: "",
+    city: "Yamunotri",
+    img: "/img/destinations/1/yamunotri.jpg",
   },
   {
     id: 4,
