@@ -2,42 +2,29 @@ export const testimonial1 = [
   {
     id: 1,
     avatar: "/img/avatars/testimonials/1.png",
-    name: "Annette Black",
-    designation: "UX / UI Designer",
-    text: `The place is in a great location in Gumbet. The area is safe and
-        beautiful. The apartment was comfortable and the host was kind and
-        responsive to our requests. Really a nice place.`,
+    name: "Manan Bansal",
+    designation: "Traveler",
+    text: `Devsthan Expert not only organized an incredible journey but also provided excellent customer service.
+    Any questions or concerns were promptly addressed, making us feel supported and cared for throughout our adventure.`,
     dealyAnimation: "100",
   },
   {
     id: 2,
     avatar: "/img/avatars/testimonials/2.png",
-    name: "Annette Black",
-    designation: "UX / UI Designer",
-    text: `The place is in a great location in Gumbet. The area is safe and
-        beautiful. The apartment was comfortable and the host was kind and
-        responsive to our requests. Really a nice place.`,
+    name: "Naveen Kumar",
+    designation: "Guide Expert",
+    text: `From the moment we booked our tour to the day we returned, Devsthan Expert exceeded our expectations.
+     The guides were knowledgeable, accommodations were top-notch, and the itinerary was perfectly curated. Highly recommended!`,
     dealyAnimation: "200",
   },
   {
     id: 3,
     avatar: "/img/avatars/testimonials/3.png",
-    name: "Annette Black",
-    designation: "UX / UI Designer",
-    text: `The place is in a great location in Gumbet. The area is safe and
-        beautiful. The apartment was comfortable and the host was kind and
-        responsive to our requests. Really a nice place.`,
+    name: "Sunil Rathi",
+    designation: "Explorer",
+    text: `Devsthan Expert made our dream vacation a reality!
+    The attention to detail, seamless planning, and personalized touch truly set them apart.`,
     dealyAnimation: "300",
-  },
-  {
-    id: 4,
-    avatar: "/img/avatars/testimonials/1.png",
-    name: "Annette Black",
-    designation: "UX / UI Designer",
-    text: `The place is in a great location in Gumbet. The area is safe and
-        beautiful. The apartment was comfortable and the host was kind and
-        responsive to our requests. Really a nice place.`,
-    dealyAnimation: "400",
   },
 ];
 export const testimonial2 = [

@@ -6,12 +6,12 @@ const TestimonialLeftCol = () => {
         <br /> saying us?
       </h2>
       <p className="mt-20">
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas varius
-        tortor nibh, sit amet tempor nibh finibus et. Aenean eu enim justo.
+      At Devsthan Expert, we take pride in providing unforgettable travel experiences.
+      But don't just take our word for it—here's what our valued customers have to say
       </p>
       <div className="row y-gap-30 pt-60 lg:pt-40">
         <div className="col-sm-5 col-6">
-          <div className="text-30 lh-15 fw-600">13m+</div>
+          <div className="text-30 lh-15 fw-600">10K+</div>
           <div className="text-light-1 lh-15">Happy People</div>
         </div>
         <div className="col-sm-5 col-6">
