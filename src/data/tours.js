@@ -2,7 +2,7 @@ const tours = [
   {
     id: 1,
     tag: "LIKELY TO SELL OUT*",
-    slideImg: ["/img/tours/Kedarnath-images.jpg"],
+    slideImg: ["/img/tours/chardham.png"],
     title: "Char Dham Yatra Ex Delhi 11N/12D",
     location: "Uttrakhand, India",
     duration: "12",
