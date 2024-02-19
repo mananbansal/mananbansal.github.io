@@ -55,7 +55,7 @@ const tours = [
   {
     id: 2,
     tag: "",
-    slideImg: ["/img/tours/2.png", "/img/tours/1.png", "/img/tours/3.png"],
+    slideImg: ["/img/tours/chardham-helicopter.png"],
     title: "Char Dham Yatra By Helicopter",
     location: "Uttrakhand, India",
     duration: "6",
@@ -99,7 +99,7 @@ const tours = [
   {
     id: 3,
     tag: "best seller",
-    slideImg: ["/img/tours/3.png"],
+    slideImg: ["/img/tours/dodham.png"],
     title: "Do Dham Yatra - By Road Badrinath And Kedarnath",
     location: "Uttarakhand, India",
     duration: "8",
