@@ -66,18 +66,33 @@ const tours = [
     desc: "The Char Dham Yatra by helicopter offers a convenient and efficient way to visit the four sacred Hindu pilgrimage sites in Uttarakhand, collectively known as the Char Dhams. These revered sites—Yamunotri, Gangotri, Kedarnath, and Badrinath—draw millions of devotees each year. The yatra takes place in the state of Uttarakhand, India. Traveling by helicopter allows you to cover these spiritual destinations in a shorter time frame, typically 5 days. The ideal months for this journey are May and June or September and November, when the skies are clear and stable. Remember to pack appropriately for the high altitudes, respect local traditions, and carry essential documents like personal IDs and COVID-19 reports.",
     cancelPolicy: "For a refund, cancel at least 7 Days in advance of the start date of the experience." ,
     highlights: [
-      {id:1, value: "Sacred Sites: Chardham Yatra includes four holy destinations – Yamunotri, Gangotri, Kedarnath, and Badrinath, each holding significant religious importance in Hinduism."},
-      {id:2, value:"Spiritual Significance: Pilgrims undertake the yatra to seek spiritual blessings, cleanse their sins, and attain a deeper connection with their faith by participating in rituals and prayers at these revered locations."},
-      {id:3, value:"Himalayan Scenery: The journey unfolds amidst breathtaking Himalayan landscapes, offering awe-inspiring views of snow-capped peaks, lush valleys, and serene rivers, enhancing the pilgrimage with natural beauty."}
+      {id:1, value: "Chardham Yatra by Helicopter"},
+      {id:2, value:"VIP Darshan at all Four temples i.e. Yamunotri, Gangotri, Kedarnath and Badrinath."},
+      {id:3, value:"Palki (Sedan Chair) at Yamunotri"}
     ],
     included:[
       {id:1, value:"Helicopter trip starts from Dehradun."},
-      {id:2, value:"Return transfers in trains"}
+      {id:2, value:"Accommodation in the hotels listed or similar."},
+      {id:3, value:"Meals as mentioned in the itinerary. Note: Veg meals on fixed menu."},
+      {id:4, value:"All Meal ( Expect Lunch At Dehradun)"},
+      {id:5, value:"Government Royalty Fee"},
+      {id:6, value:"VIP Darshan at all four temples i.e. Yamunotri, Gangotri, Kedarnath and Badrinath. (Subject to government approval)"},
+      {id:7, value:"Palki (Sedan Chair) at Yamunotri."},
+      {id:8, value:"All local transport as per Toyota Innova/ Best available vehicle"}
     ],
     excluded:[
-      {id:1, value:"Lunch and drinks"},
-      {id:2, value:"Gratuities"},
-      {id:3, value:"Digital guide available in 10 different languages at additional cost"}
+      {id:1, value:"Rates are subject to change in case of any major hike in fuel prices."},
+      {id:2, value:"Train fare/ Airfare "},
+      {id:3, value:"Travel insurance covering medical evacuation, hospitalization, air evacuation, baggage insurance and trip cancellation."},
+      {id:4, value:"Any optional trips other than specified in the program."},
+      {id:5, value:"Any en-route or personal expenses such as alcoholic and non-alcoholic beverages, telephone calls, tips & gratuities, laundry etc."},
+      {id:6, value:"Personal equipment like clothes, shoes, daypacks, personal medical kit etc."},
+      {id:7, value:"Any exigency expenses due to reasons beyond our normal control"},
+      {id:8, value:"Any personal expenses, room service & special orders, mineral waters alcoholic & non-alcoholic, beverages, porterage, tips, phone calls, laundry etc."},
+      {id:9, value:"Any extra excursions or sightseeing apart from the above specified itinerary."},
+      {id:10, value:"Camera fees, guide charges"},
+      {id:11, value:"Any incidental and other expenses which are not specified in the inclusions."},
+      {id:12, value:"Government Service Tax (GST)"},
     ]
   },
 
