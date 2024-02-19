@@ -24,10 +24,10 @@ const index = () => {
 
       <div className="col-12">
         <Link
-          to="/booking-page"
+          to="https://wa.me/918683818381"
           className="button -dark-1 py-15 px-35 h-60 col-12 rounded-4 bg-blue-1 text-white"
         >
-          Book Now
+          Enquiry Now
         </Link>
       </div>
       {/* End .col-12 */}
