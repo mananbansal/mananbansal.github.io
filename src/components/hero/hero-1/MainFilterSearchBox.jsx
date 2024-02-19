@@ -24,7 +24,7 @@ const MainFilterSearchBox = () => {
     case "Activity":
       searchBarComponent = <ActivitySearchBar />;
       break;
-    case "Homestays and Camps":
+    case "Homestays & Camps":
       searchBarComponent = <HomestaysSearchBar />;
       break;
     case "Car":
