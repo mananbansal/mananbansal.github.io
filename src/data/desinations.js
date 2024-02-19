@@ -26,19 +26,19 @@ export const destinations2 = [
     id: 1,
     hoverText: "",
     city: "Kedarnath",
-    img: "/img/destinations/1/kedarnath.jpg",
+    img: "/img/destinations/1/kedarnath.png",
   },
   {
     id: 2,
     hoverText: "",
     city: "Badrinath",
-    img: "/img/destinations/1/badrinath.jpg",
+    img: "/img/destinations/1/badrinath.png",
   },
   {
     id: 3,
     hoverText: "",
     city: "Yamunotri",
-    img: "/img/destinations/1/yamunotri.jpg",
+    img: "/img/destinations/1/yamunotri.png",
   },
   {
     id: 4,
