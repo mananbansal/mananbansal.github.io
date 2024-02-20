@@ -35,6 +35,7 @@ import About from "./pages/others/about";
 import BecomeExpert from "./pages/others/become-expert";
 import HelpCenter from "./pages/others/help-center";
 import LogIn from "./pages/others/login";
+import ExpertLogIn from "./pages/others/ExpertLogin";
 import SignUp from "./pages/others/signup";
 import Terms from "./pages/others/terms";
 import Invoice from "./pages/others/invoice";
@@ -117,6 +118,7 @@ function App() {
               <Route path="help-center" element={<HelpCenter />} />
               <Route path="signup" element={<SignUp />} />
               <Route path="login" element={<LogIn />} />
+              <Route path="ExpertLogin" element={<ExpertLogIn />} />
               <Route path="terms" element={<Terms />} />
               <Route path="invoice" element={<Invoice />} />
               <Route path="contact" element={<Contact />} />
