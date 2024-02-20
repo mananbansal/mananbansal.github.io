@@ -284,6 +284,23 @@ const tours = [
       {id:10, value:"Camera fees, guide charges"},
       {id:11, value:"Any incidental and other expenses which are not specified in the inclusions."},
       {id:12, value:"Government Service Tax (GST)"},
+    ],
+    itineraryContent:[
+      {
+        id: 1,
+        targetCollapse: "item_1",
+        itemNo: "1",
+        title: "Delhi to Haridwar/Rishikesh",
+        img: "/img/tours/list.png",
+        content: `Depart from Delhi early in the morning.
+        Arrive in Haridwar/Rishikesh by afternoon.
+        Visit Har Ki Pauri or other attractions in Haridwar/Rishikesh.
+        Overnight stay in Haridwar/Rishikesh`,
+        classShowHide: "",
+        duration: "225 Km | 5/6 Hr",
+        meal:"breakfast"
+      },
+
     ]
   },
 
@@ -326,6 +343,23 @@ const tours = [
       {id:10, value:"Personal equipment like clothes, shoes, daypacks, personal medical kit etc."},
       {id:11, value:"Any exigency expenses due to reasons beyond our normal control"},
       {id:12, value:"Government Service Tax (GST)"},
+    ],
+    itineraryContent:[
+      {
+        id: 1,
+        targetCollapse: "item_1",
+        itemNo: "1",
+        title: "Delhi to Haridwar/Rishikesh",
+        img: "/img/tours/list.png",
+        content: `Depart from Delhi early in the morning.
+        Arrive in Haridwar/Rishikesh by afternoon.
+        Visit Har Ki Pauri or other attractions in Haridwar/Rishikesh.
+        Overnight stay in Haridwar/Rishikesh`,
+        classShowHide: "",
+        duration: "225 Km | 5/6 Hr",
+        meal:"breakfast"
+      },
+
     ]
   },
   {
@@ -369,6 +403,23 @@ const tours = [
       {id:10, value:"Camera fees, guide charges"},
       {id:11, value:"Any incidental and other expenses which are not specified in the inclusions."},
       {id:12, value:"Government Service Tax (GST)"},
+    ],
+    itineraryContent:[
+      {
+        id: 1,
+        targetCollapse: "item_1",
+        itemNo: "1",
+        title: "Delhi to Haridwar/Rishikesh",
+        img: "/img/tours/list.png",
+        content: `Depart from Delhi early in the morning.
+        Arrive in Haridwar/Rishikesh by afternoon.
+        Visit Har Ki Pauri or other attractions in Haridwar/Rishikesh.
+        Overnight stay in Haridwar/Rishikesh`,
+        classShowHide: "",
+        duration: "225 Km | 5/6 Hr",
+        meal:"breakfast"
+      },
+
     ]
   },
   {
@@ -412,6 +463,23 @@ const tours = [
       {id:10, value:"Camera fees, guide charges"},
       {id:11, value:"Any incidental and other expenses which are not specified in the inclusions."},
       {id:12, value:"Government Service Tax (GST)"},
+    ],
+    itineraryContent:[
+      {
+        id: 1,
+        targetCollapse: "item_1",
+        itemNo: "1",
+        title: "Delhi to Haridwar/Rishikesh",
+        img: "/img/tours/list.png",
+        content: `Depart from Delhi early in the morning.
+        Arrive in Haridwar/Rishikesh by afternoon.
+        Visit Har Ki Pauri or other attractions in Haridwar/Rishikesh.
+        Overnight stay in Haridwar/Rishikesh`,
+        classShowHide: "",
+        duration: "225 Km | 5/6 Hr",
+        meal:"breakfast"
+      },
+
     ]
   },
   {
@@ -455,6 +523,23 @@ const tours = [
       {id:10, value:"Camera fees, guide charges"},
       {id:11, value:"Any incidental and other expenses which are not specified in the inclusions."},
       {id:12, value:"Government Service Tax (GST)"},
+    ],
+    itineraryContent:[
+      {
+        id: 1,
+        targetCollapse: "item_1",
+        itemNo: "1",
+        title: "Delhi to Haridwar/Rishikesh",
+        img: "/img/tours/list.png",
+        content: `Depart from Delhi early in the morning.
+        Arrive in Haridwar/Rishikesh by afternoon.
+        Visit Har Ki Pauri or other attractions in Haridwar/Rishikesh.
+        Overnight stay in Haridwar/Rishikesh`,
+        classShowHide: "",
+        duration: "225 Km | 5/6 Hr",
+        meal:"breakfast"
+      },
+
     ]
   },
   {
@@ -498,6 +583,23 @@ const tours = [
       {id:10, value:"Camera fees, guide charges"},
       {id:11, value:"Any incidental and other expenses which are not specified in the inclusions."},
       {id:12, value:"Government Service Tax (GST)"},
+    ],
+    itineraryContent:[
+      {
+        id: 1,
+        targetCollapse: "item_1",
+        itemNo: "1",
+        title: "Delhi to Haridwar/Rishikesh",
+        img: "/img/tours/list.png",
+        content: `Depart from Delhi early in the morning.
+        Arrive in Haridwar/Rishikesh by afternoon.
+        Visit Har Ki Pauri or other attractions in Haridwar/Rishikesh.
+        Overnight stay in Haridwar/Rishikesh`,
+        classShowHide: "",
+        duration: "225 Km | 5/6 Hr",
+        meal:"breakfast"
+      },
+
     ]
   },
   {
@@ -541,6 +643,23 @@ const tours = [
       {id:10, value:"Camera fees, guide charges"},
       {id:11, value:"Any incidental and other expenses which are not specified in the inclusions."},
       {id:12, value:"Government Service Tax (GST)"},
+    ],
+    itineraryContent:[
+      {
+        id: 1,
+        targetCollapse: "item_1",
+        itemNo: "1",
+        title: "Delhi to Haridwar/Rishikesh",
+        img: "/img/tours/list.png",
+        content: `Depart from Delhi early in the morning.
+        Arrive in Haridwar/Rishikesh by afternoon.
+        Visit Har Ki Pauri or other attractions in Haridwar/Rishikesh.
+        Overnight stay in Haridwar/Rishikesh`,
+        classShowHide: "",
+        duration: "225 Km | 5/6 Hr",
+        meal:"breakfast"
+      },
+
     ]
   },
   {
@@ -584,6 +703,23 @@ const tours = [
       {id:10, value:"Camera fees, guide charges"},
       {id:11, value:"Any incidental and other expenses which are not specified in the inclusions."},
       {id:12, value:"Government Service Tax (GST)"},
+    ],
+    itineraryContent:[
+      {
+        id: 1,
+        targetCollapse: "item_1",
+        itemNo: "1",
+        title: "Delhi to Haridwar/Rishikesh",
+        img: "/img/tours/list.png",
+        content: `Depart from Delhi early in the morning.
+        Arrive in Haridwar/Rishikesh by afternoon.
+        Visit Har Ki Pauri or other attractions in Haridwar/Rishikesh.
+        Overnight stay in Haridwar/Rishikesh`,
+        classShowHide: "",
+        duration: "225 Km | 5/6 Hr",
+        meal:"breakfast"
+      },
+
     ]
   },
 ];
