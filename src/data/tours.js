@@ -2,7 +2,7 @@ const tours = [
   {
     id: 1,
     tag: "LIKELY TO SELL OUT*",
-    slideImg: ["/img/tours/Yamunotri(1).png","/img/tours/20211001_122421.jpg","/img/tours/20211001_124701.jpg" ],
+    slideImg: ["/img/tours/Yamunotri.png","/img/tours/20211001_122421.jpg","/img/tours/20211001_124701.jpg" ],
     title: "Char Dham Yatra with tungnath Ex Delhi 11N/12D",
     location: "Uttrakhand, India",
     duration: "12",
