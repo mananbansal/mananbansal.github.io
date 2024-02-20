@@ -11,7 +11,7 @@ const metadata = {
   description: "Devsthan Expert - Travel & Tours",
 };
 
-const LogIn = () => {
+const ExpertLogIn = () => {
   return (
     <>
       <MetaComponent meta={metadata} />
@@ -60,4 +60,4 @@ const LogIn = () => {
   );
 };
 
-export default LogIn;
+export default ExpertLogIn;

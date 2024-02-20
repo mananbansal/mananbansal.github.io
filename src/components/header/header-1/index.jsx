@@ -72,7 +72,7 @@ const Header1 = () => {
                     </div>
                   </div>
                   <Link
-                    to="/expert-login"
+                    to="/ExpertLogIn"
                     className="button px-30 fw-400 text-14 -white bg-white h-50 text-dark-1"
                   >
                     Become An Expert
