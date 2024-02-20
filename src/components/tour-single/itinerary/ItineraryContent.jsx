@@ -24,7 +24,8 @@ const ItineraryContent = () => {
       Arrive in Barkot by afternoon..
       Overnight stay in Uttarkashi.`,
       classShowHide: "show",
-      duration: "195 Km | 6/7 Hr"
+      duration: "195 Km | 6/7 Hr",
+      meal:"breakfast"
     },
     {
       id: 3,
@@ -37,7 +38,8 @@ const ItineraryContent = () => {
       After Darshan, return to Barkot.
       Overnight stay in Barkot`,
       classShowHide: "",
-      duration: "60 Km + 12 Km Trek | 6/7 Hr"
+      duration: "60 Km + 12 Km Trek | 6/7 Hr",
+      meal:"breakfast"
     },
     {
       id: 4,
@@ -49,7 +51,8 @@ const ItineraryContent = () => {
       Check into your hotel in Harshil.
       Overnight stay in Harshil.`,
       classShowHide: "",
-      duration: "160 Km | 5/6 Hr"
+      duration: "160 Km | 5/6 Hr",
+      meal:"breakfast"
     },
     {
       id: 5,
@@ -62,7 +65,8 @@ const ItineraryContent = () => {
       Return to Uttarkashi.
       Overnight stay in Uttarkashi.`,
       classShowHide: "",
-      duration: "130 Km | 7/8 Hr"
+      duration: "130 Km | 7/8 Hr",
+      meal:"breakfast"
     },
     {
       id: 6,
@@ -77,7 +81,8 @@ const ItineraryContent = () => {
       Check into your hotel upon arrival.
       Overnight stay in Guptkashi.`,
       classShowHide: "",
-      duration: "220 Km | 9/10 Hr"
+      duration: "220 Km | 9/10 Hr",
+      meal:"breakfast"
     },
     {
       id: 7,
@@ -91,7 +96,8 @@ const ItineraryContent = () => {
       Visit Kedarnath Temple and seek blessings.
       Overnight stay in Kedarnath.`,
       classShowHide: "",
-      duration: "50 Km +32 km trek | 8/9 Hr"
+      duration: "50 Km +32 km trek | 8/9 Hr",
+      meal:"breakfast"
     },
     {
       id: 8,
@@ -105,7 +111,8 @@ const ItineraryContent = () => {
       Drive back to Guptkashi.
       Overnight stay in Guptkashi.`,
       classShowHide: "",
-      duration: "50 Km +32 km trek | 8/9 Hr"
+      duration: "50 Km +32 km trek | 8/9 Hr",
+      meal:"breakfast"
     },
     {
       id: 9,
@@ -119,7 +126,8 @@ const ItineraryContent = () => {
       Reach Pipal Koti by evening.
       Overnight stay in Pipal Koti.`,
       classShowHide: "",
-      duration: "120 Km + 8Km Trek | 9/10 Hr"
+      duration: "120 Km + 8Km Trek | 9/10 Hr",
+      meal:"breakfast"
     },
     {
       id: 10,
@@ -134,7 +142,8 @@ const ItineraryContent = () => {
       Visit Badrinath Temple for evening Aarti.
       Overnight stay in Badrinath.`,
       classShowHide: "",
-      duration: "75 Km | 5/6 Hr"
+      duration: "75 Km | 5/6 Hr",
+      meal:"breakfast"
     },
     {
       id: 11,
@@ -150,7 +159,8 @@ const ItineraryContent = () => {
       Overnight stay in
       Rudraprayag/Srinagar.`,
       classShowHide: "",
-      duration: "190 Km | 7/8 Hr"
+      duration: "190 Km | 7/8 Hr",
+      meal:"breakfast"
     },
     {
       id: 12,
@@ -163,7 +173,8 @@ const ItineraryContent = () => {
       Visit other temples in Rishikesh/Haridwar if time permits.
       Overnight stay in Rishikesh/Haridwar.`,
       classShowHide: "",
-      duration: "160 Km | 5/6 Hr"
+      duration: "160 Km | 5/6 Hr",
+      meal:"breakfast"
     },
     {
       id: 13,
@@ -176,7 +187,8 @@ const ItineraryContent = () => {
       concluding the Happy Relgious journey with
       Devsthan Expert.`,
       classShowHide: "",
-      duration: "240 Km | 5/6 Hr"
+      duration: "240 Km | 5/6 Hr",
+      meal:"breakfast"
     },
   ];
 
