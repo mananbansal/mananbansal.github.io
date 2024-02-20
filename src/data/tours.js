@@ -246,7 +246,7 @@ const tours = [
   {
     id: 2,
     tag: "",
-    slideImg: ["/img/tours/chardham-helicopter.png"],
+    slideImg: ["/img/tours/Untitled design (6).png"],
     title: "Char Dham Yatra By Helicopter",
     location: "Uttrakhand, India",
     duration: "6",
