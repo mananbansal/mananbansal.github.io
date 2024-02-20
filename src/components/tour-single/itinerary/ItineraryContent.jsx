@@ -11,7 +11,8 @@ const ItineraryContent = () => {
       Visit Har Ki Pauri or other attractions in Haridwar/Rishikesh.
       Overnight stay in Haridwar/Rishikesh`,
       classShowHide: "",
-      duration: "225 Km | 5/6 Hr"
+      duration: "225 Km | 5/6 Hr",
+      meal:"breakfast"
     },
     {
       id: 2,
@@ -194,6 +195,9 @@ const ItineraryContent = () => {
                 <div className="text-16 lh-15 fw-500">{item.title}</div>
                 <div className="text-14 lh-15 text-light-1 mt-5">
                   Duration: {item.duration}
+                </div>
+                <div className="text-14 lh-15 text-light-1 mt-5">
+                  Meal: {item.meal}
                 </div>
                 <div
                   className={`accordion-collapse collapse ${item.classShowHide}`}

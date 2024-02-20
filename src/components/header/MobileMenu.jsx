@@ -13,14 +13,14 @@ import { isActiveLink } from "../../utils/linkActiveChecker";
 import Social from "../common/social/Social";
 import ContactInfo from "./ContactInfo";
 import { useNavigate } from "react-router-dom";
-import { useEffect, useState } from "react";
+ import { useEffect, useState } from "react";
 
 const MobileMenu = () => {
   const { pathname } = useLocation();
 
-  const [isActiveParent, setIsActiveParent] = useState(false);
-  const [isActiveNestedParentTwo, setisActiveNestedParentTwo] = useState(false);
-  const [isActiveNestedParent, setisActiveNestedParent] = useState(false);
+   const [isActiveParent, setIsActiveParent] = useState(false);
+   const [isActiveNestedParentTwo, setisActiveNestedParentTwo] = useState(false);
+   const [isActiveNestedParent, setisActiveNestedParent] = useState(false);
 
   const navigate = useNavigate();
 
@@ -61,7 +61,7 @@ const MobileMenu = () => {
 
       <Sidebar width="400" backgroundColor="#fff">
         <Menu>
-          <SubMenu
+          {/* <SubMenu
             label="Home"
             className={
               homeItems.some(
@@ -71,8 +71,8 @@ const MobileMenu = () => {
                 ? "menu-active-link"
                 : ""
             }
-          >
-            {homeItems.map((item, i) => (
+          > */}
+            {/* {homeItems.map((item, i) => (
               <MenuItem
                 key={i}
                 onClick={() => navigate(item.routePath)}
@@ -85,10 +85,10 @@ const MobileMenu = () => {
                 {item.name}
               </MenuItem>
             ))}
-          </SubMenu>
+          </SubMenu> */}
           {/* End  All Home Menu */}
 
-          <SubMenu
+          {/* <SubMenu
             label="Categories"
             className={isActiveParent ? "menu-active-link" : ""}
           >
@@ -129,16 +129,16 @@ const MobileMenu = () => {
                 ))}
               </SubMenu>
             ))}
-          </SubMenu>
+          </SubMenu> */}
           {/* End  All Categories Menu */}
 
-          <MenuItem
+          {/* <MenuItem
             onClick={() => navigate("/destinations")}
             className={pathname === "/destinations" ? "menu-active-link" : ""}
           >
             Desitinations
           </MenuItem>
-          {/* End  Desitinations Menu */}
+          End  Desitinations Menu */}
 
           <SubMenu
             label="Blog"
@@ -167,7 +167,7 @@ const MobileMenu = () => {
           </SubMenu>
           {/* End  All Blog Menu */}
 
-          <SubMenu
+          {/* <SubMenu
             label="Pages"
             className={
               pageItems.some(
@@ -192,9 +192,9 @@ const MobileMenu = () => {
               </MenuItem>
             ))}
           </SubMenu>
-          {/* End  All Pages Menu */}
+          End  All Pages Menu */}
 
-          <SubMenu
+          {/* <SubMenu
             label="Dashboard"
             className={
               pathname.split("/")[1] == "dashboard" ||
@@ -216,7 +216,7 @@ const MobileMenu = () => {
                 {item.name}
               </MenuItem>
             ))}
-          </SubMenu>
+          </SubMenu> */}
           {/* End  All Dashboard Menu */}
 
           <MenuItem
