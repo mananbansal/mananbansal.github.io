@@ -2,7 +2,7 @@ import CallToActions from "@/components/common/CallToActions";
 import DefaultHeader from "@/components/header/default-header";
 import DefaultFooter from "@/components/footer/default";
 import LoginWithSocial from "@/components/common/LoginWithSocial";
-import LoginForm from "@/components/common/LoginForm";
+import ExpertLoginForm from "@/components/common/ExpertLoginForm";
 
 import MetaComponent from "@/components/common/MetaComponent";
 
@@ -28,7 +28,7 @@ const LogIn = () => {
           <div className="row justify-center">
             <div className="col-xl-6 col-lg-7 col-md-9">
               <div className="px-50 py-50 sm:px-20 sm:py-20 bg-white shadow-4 rounded-4">
-                <LoginForm />
+                <ExpertLoginForm />
                 {/* End .Login */}
 
                 <div className="row y-gap-20 pt-30">
