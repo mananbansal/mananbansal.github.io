@@ -187,9 +187,9 @@ const TourSingleV1Dynamic = () => {
             </div>
             {/* End col-xl-3 */}
 
-            <div className="col-xl-8">
+            {/* <div className="col-xl-8">
               <DetailsReview2 />
-            </div>
+            </div> */}
             {/* End col-xl-8 */}
           </div>
           {/* End .row */}
