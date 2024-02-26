@@ -10,6 +10,7 @@ import "aos/dist/aos.css";
 import "./styles/index.scss";
 import { Provider } from "react-redux";
 import { store } from "./store/store";
+import { Analytics } from '@vercel/analytics/react';
 
 if (typeof window !== "undefined") {
   import("bootstrap");
@@ -196,6 +197,7 @@ function App() {
 
         <SrollTop />
       </Provider>
+      <Analytics />
     </main>
   );
 }
