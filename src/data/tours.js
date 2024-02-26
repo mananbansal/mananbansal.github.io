@@ -1,8 +1,8 @@
 const tours = [
   {
     id: 1,
-    tag: "LIKELY TO SELL OUT*",
-    slideImg: ["/img/tours/Untitled design (1).png","/img/tours/Yamunotri (2).png","/img/tours/Gangotri (1).png", "/img/tours/img/tours/kedarnath 11.png",],
+    tag: "best seller",
+    slideImg: ["/img/tours/Yamunotri (3).png","/img/tours/Yamunotri (2).png", "/img/tours/Untitled design (5).png","/img/tours/Kedarnath 22.png","/img/tours/Badrinath.png",  ],
     title: "Char Dham Yatra with tungnath Ex Delhi 11N/12D",
     location: "Uttrakhand, India",
     duration: "12",
@@ -246,12 +246,12 @@ const tours = [
   {
     id: 2,
     tag: "",
-    slideImg: ["/img/tours/chardham-helicopter.png"],
-    title: "Char Dham Yatra By Helicopter",
+    slideImg: ["/img/tours/Untitled design (6).png","/img/tours/chardham helicopter11.png"],
+    title: "Char Dham Yatra Ex. Dehradun By Helicopter",
     location: "Uttrakhand, India",
     duration: "6",
     numberOfReviews: "2045",
-    price: "1,95,000",
+    price: "1,85,000",
     tourType: "Full-day Tours",
     delayAnimation: "200",
     desc: "The Char Dham Yatra by helicopter offers a convenient and efficient way to visit the four sacred Hindu pilgrimage sites in Uttarakhand, collectively known as the Char Dhams. These revered sites—Yamunotri, Gangotri, Kedarnath, and Badrinath—draw millions of devotees each year. The yatra takes place in the state of Uttarakhand, India. Traveling by helicopter allows you to cover these spiritual destinations in a shorter time frame, typically 5 days. The ideal months for this journey are May and June or September and November, when the skies are clear and stable. Remember to pack appropriately for the high altitudes, respect local traditions, and carry essential documents like personal IDs and COVID-19 reports.",
